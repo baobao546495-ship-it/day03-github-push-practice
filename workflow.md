@@ -10,3 +10,5 @@ b update before a pulls
 
 multi-location rule: whoever finishes work should push
 multi-location rule: whoever starts work should pull first
+
+before pull,run git status and make sure working tree is clean

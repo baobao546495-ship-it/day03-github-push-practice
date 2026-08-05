@@ -11,3 +11,5 @@ local uncommitted change before pull practice
 reature branch update: readme was changed on feature-readme-update
 
 hotfix note: urgent fixes should be made  on a hotfix branch
+
+urgent hotfix: this fix was created from main,  not from unfinished reature work

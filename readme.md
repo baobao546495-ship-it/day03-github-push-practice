@@ -7,3 +7,5 @@ this is the second local update pushed to github
 a local update made without pulling first
 
 local uncommitted change before pull practice
+ 
+reature branch update: readme was changed on feature-readme-update

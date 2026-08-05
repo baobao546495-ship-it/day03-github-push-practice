@@ -9,3 +9,5 @@ a local update made without pulling first
 local uncommitted change before pull practice
  
 reature branch update: readme was changed on feature-readme-update
+
+hotfix note: urgent fixes should be made  on a hotfix branch

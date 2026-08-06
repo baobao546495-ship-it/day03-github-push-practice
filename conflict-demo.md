@@ -1,3 +1,3 @@
 # conflict demo
 
-conflict target line: original
+conflict target line: right branch change

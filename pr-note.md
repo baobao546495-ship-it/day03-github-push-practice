@@ -7,3 +7,4 @@ a pr helps teammates check code, discuss changes, and protect main
 conversation is the discussion area of a pull request
 files changed shows what files and lines are changed by the pr
 review means teammates check pr before it is merged
+a pr can be updated many times before it is merged

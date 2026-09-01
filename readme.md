@@ -15,5 +15,3 @@ hotfix note: urgent fixes should be made  on a hotfix branch
 urgent hotfix: this fix was created from main,  not from unfinished reature work
  
 unfinished stash practice line
- 
-wrong line: this line should be reverted

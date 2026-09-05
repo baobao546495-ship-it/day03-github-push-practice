@@ -20,3 +20,4 @@ check the current directory with pwd
 16.delete finished feature branches
 17.use tags to mark important versions
 18.keep the repository clean and synchronized
+19.use revert for wrong commits that have alredy been pushed
